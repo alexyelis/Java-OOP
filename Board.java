@@ -3,7 +3,7 @@ package SecondLection;
 import java.util.Arrays;
 
 public class Board {
-    Shape[] arr = new Shape[4];
+    private Shape[] arr = new Shape[4];
     public Board(Shape[] arr) {
         this.arr = arr;
     }
