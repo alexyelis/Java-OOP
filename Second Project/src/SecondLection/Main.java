@@ -2,12 +2,14 @@ package SecondLection;
 
 import com.gmail.tsa.Triangl;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
 
         Point p1 = new Point(0, 0);
-        Point p2 = new Point(4, 0);
-        Point p3 = new Point(4, 4);
+        Point p2 = new Point(0, 4);
+        Point p3 = new Point(4, 0);
         Point p4 = new Point(0, 4);
         Triangle t = new Triangle(p1, p2, p3);
         Board b = new Board();
@@ -18,7 +20,10 @@ public class Main {
         //b.addShape(t, 0);
         b.addShape(s, 3);
         b.addShape(t2, 0);//some
-
+        String[] argss = {"77","55"};
+        System.out.println(Arrays.stream(argss).mapToInt(Integer::parseInt).sum());
+        int[] arr2 = {2,5,3};
+        System.out.println(Arrays.stream(arr2).sum());
         //Trying to add an element to a part where an element already exist. Will receive and error.
         b.addShape(t, 3);
 
