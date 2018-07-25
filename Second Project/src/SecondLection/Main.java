@@ -17,7 +17,7 @@ public class Main {
         Triangle t2 = new Triangle(p3, p3, p4);
         //b.addShape(t, 0);
         b.addShape(s, 3);
-        b.addShape(t2, 0);
+        b.addShape(t2, 0);//some
 
         //Trying to add an element to a part where an element already exist. Will receive and error.
         b.addShape(t, 3);
