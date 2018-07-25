@@ -10,6 +10,14 @@ public class Board {
 
     public Board() {
     }
+    
+    public Shape[] getArr() {
+        return arr;
+    }
+
+    public void setArr(Shape[] arr) {
+        this.arr = arr;
+    }
 
     public void addShape(Shape shape, int part) {
         try {
