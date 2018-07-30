@@ -12,107 +12,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Board.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SecondLection/Board.java">
+      <file leaf-file-name="Human.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="49" column="16" lean-forward="true" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+            <state relative-caret-position="421">
+              <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
               <folding>
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#910#911#0" expanded="true" />
+                <element signature="e#940#941#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SecondLection/Shape.java">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="-55">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Group.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/Group.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SecondLection/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="731">
+              <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SecondLection/Triangle.java">
+      <file leaf-file-name="GroupException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/GroupException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="24" column="106" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="106" />
-              <folding>
-                <element signature="e#904#905#0" expanded="true" />
-                <element signature="e#929#930#0" expanded="true" />
-                <element signature="e#964#965#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
-                <element signature="e#1045#1046#0" expanded="true" />
-                <element signature="e#1080#1081#0" expanded="true" />
-                <element signature="e#1108#1109#0" expanded="true" />
-                <element signature="e#1136#1137#0" expanded="true" />
-                <element signature="e#1161#1162#0" expanded="true" />
-                <element signature="e#1196#1197#0" expanded="true" />
-                <element signature="e#1224#1225#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SecondLection/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#886#887#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
-                <element signature="e#942#943#0" expanded="true" />
-                <element signature="e#967#968#0" expanded="true" />
-                <element signature="e#1002#1003#0" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1083#1084#0" expanded="true" />
-                <element signature="e#1118#1119#0" expanded="true" />
-                <element signature="e#1146#1147#0" expanded="true" />
-                <element signature="e#1174#1175#0" expanded="true" />
-                <element signature="e#1199#1200#0" expanded="true" />
-                <element signature="e#1234#1235#0" expanded="true" />
-                <element signature="e#1262#1263#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SecondLection/Point.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-              <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -137,6 +105,13 @@
         <option value="$PROJECT_DIR$/src/SecondLection/Square.java" />
         <option value="$PROJECT_DIR$/src/SecondLection/Triangle.java" />
         <option value="$PROJECT_DIR$/src/SecondLection/Board.java" />
+        <option value="$PROJECT_DIR$/src/ThirdLection/NegativeValueException.java" />
+        <option value="$PROJECT_DIR$/src/ThirdLection/Hometask/Human.java" />
+        <option value="$PROJECT_DIR$/src/ThirdLection/Main.java" />
+        <option value="$PROJECT_DIR$/src/ThirdLection/Hometask/Student.java" />
+        <option value="$PROJECT_DIR$/src/ThirdLection/Hometask/Main.java" />
+        <option value="$PROJECT_DIR$/src/ThirdLection/Hometask/GroupException.java" />
+        <option value="$PROJECT_DIR$/src/ThirdLection/Hometask/Group.java" />
       </list>
     </option>
   </component>
@@ -150,10 +125,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -184,6 +159,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="SecondLection" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Second Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ThirdLection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Second Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Second Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ThirdLection" type="462c0819:PsiDirectoryNode" />
+              <item name="Hometask" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -210,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="InitBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SecondLection.InitBoard" />
       <module name="Second Project" />
@@ -218,6 +206,28 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SecondLection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdLection.Main" />
+      <module name="Second Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThirdLection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdLection.Hometask.Main" />
+      <module name="Second Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThirdLection.Hometask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,9 +287,13 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.InitBoard" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.InitBoard" />
       </list>
@@ -296,39 +310,39 @@
       <option name="presentableId" value="Default" />
       <updated>1532414489746</updated>
       <workItem from="1532414493441" duration="34302000" />
-      <workItem from="1532510794586" duration="4912000" />
+      <workItem from="1532510794586" duration="34627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39214000" />
+    <option name="totallyTimeSpent" value="68929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32831737" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3273495" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3009576" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23231256" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.225" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -665,15 +679,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdLection/NegativeValueException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdLection/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SecondLection/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="49" column="16" lean-forward="true" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        <state relative-caret-position="612">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
           <folding>
             <element signature="e#230#231#0" expanded="true" />
             <element signature="e#256#257#0" expanded="true" />
             <element signature="e#295#296#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/GroupException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdLection/Hometask/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
           </folding>
         </state>
       </provider>
